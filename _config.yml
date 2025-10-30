@@ -1,0 +1,24 @@
+title: "MakSenseHQ"
+description: "MakSenseHQ — Knowledge & Projects"
+# Wichtig: Org-/User-Site -> baseurl leer
+url: "https://maksense.nijida.de"
+baseurl: ""
+
+# Minimal Mistakes als Remote-Theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default" # z.B. "air", "dark", "contrast"
+
+# Plugins, die GitHub Pages unterstützt (ausreichend)
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Navigation
+# nav:
+#   main:
+#     - title: "Home"
+#       url: /
+#     - title: "Blog"
+#       url: /posts/
+
